@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Arsad+Ansari..;Frontend+Developer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
-<h3 align="center">A passionate Frontend Developer with a strong focus on building responsive, user-friendly interfaces. I specialize in React.js and WordPress development, blending creativity with code to bring ideas to life.</h3>
+<h5 align="center">A passionate Frontend Developer with a strong focus on building responsive, user-friendly interfaces. I specialize in React.js and WordPress development, blending creativity with code to bring ideas to life.</h5>
     
 
     
